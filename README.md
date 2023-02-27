@@ -41,14 +41,14 @@ git push origin branch_2
 
 
 Step 1: Clone the repository or update your local repository with the latest changes.
-git pull origin main
+'git pull origin main'
 
 Step 2: Switch to the base branch of the pull request.
-git checkout main
+'git checkout main'
 
 Step 3: Merge the head branch into the base branch.
-git merge branch_2
+'git merge branch_2'
 
 Step 4: Push the changes.
-git push -u origin main
+'git push -u origin main'
 
